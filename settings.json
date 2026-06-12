@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ik raak geen gras aan",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ik raak geen gras aan",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "De89Crafters.aternos.me",
+    "port": 49195,
     "version": "",
     "try-creative": false
   },
@@ -20,20 +20,18 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Provontomds11!"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        
       ]
     },
     "chat-log": true,
