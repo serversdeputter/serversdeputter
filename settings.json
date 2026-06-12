@@ -2,13 +2,13 @@
   "name": "ikraakgeengrasaan",
   "bot-account": {
     "username": "ikraakgeengrasaan",
-    "password": "1.21.11",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "De89Crafters.aternos.me",
     "port": 49195,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
